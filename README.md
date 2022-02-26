@@ -1,7 +1,7 @@
 
 #  Hello there👋 
 
-> 🔥 Coding is Passion but Pentesting is love
+> 🔥 Coding is Passion but Pentesting is life
 
 
 - 🔭 Currently studying Cyber Security 
