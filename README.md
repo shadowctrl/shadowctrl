@@ -12,7 +12,7 @@
 
 
 - 💬 Reach me via  
-  - Instagram: https://instagram.com/root.exe_
+  - Instagram: https://instagram.com/_.shadowctrl._
   - Discord: Raghav#4530
 
 
