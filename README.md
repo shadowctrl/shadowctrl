@@ -4,7 +4,7 @@
 > 🔥 Coding is Passion but Pentesting is life
 
 
-- 🔭 Currently studying Cyber Security 
+- 🔭 Pentester and Ethical hacker
 
 - 🌱 I’m currently learning everything
 
