@@ -17,8 +17,8 @@
 
 
 - 🔗 Check out
-  - https://bit.ly/shadowctrl
-  - https://cutt.ly/tonydiscordbot
+  - https://shadowctrl.wordpress.com
+ 
 
 <img src="https://user-images.githubusercontent.com/42708326/154947687-cf31fd4b-206b-4378-9f08-589d6d9603d5.jpg"  width="500" >
 
