@@ -23,11 +23,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shadowctrl&icon=6&color=12)](https://visitcount.itsvg.in)
 
-## Hire Me on
-[![Upwork] (https://upwork.com/freelancers/shadowctrl)]
+## 💰 Hire Me on
+[![Upwork](https://img.shields.io/badge/Upwork-00ff00)](https://upwork.com/freelancers/shadowctrl)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shadowctrl) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shadowctrl) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
