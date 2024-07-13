@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Next | React | Firebase | MongoDB | Express</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MirrorBot<br>👯 I’m looking to collaborate on Next and MERN projects<br>🤝 I’m looking for help with Discord/Telegram Bot Development<br>🌱 I’m currently learning GASP, CMS<br>💬 Ask me about React, API, Linux, Next, Firebase<br>👨‍💻 Know about my experiences https://www.shadowctrl.me<br>📫 How to reach me admin@shadowctrl.me<br>⚡ Fun fact Caffine - Developers best friend
+🔭 I’m currently working on [MirrorBot](https://github.com/shadowctrl/Telegram-Discord-Bot)<br>👯 I’m looking to collaborate on Next and MERN projects<br>🤝 I’m looking forward to help with Bot Development<br>🌱 I’m currently learning GASP, CMS<br>💬 Ask me about React, API, Linux, Next, Firebase<br>👨‍💻 Know about my experiences [shadowctrl](https://www.shadowctrl.me)<br>📫 Reach Me via: [Instagram](https://www.instagram.com/_.shadowctrl._), [Email](mailto:admin@shadowctrl.me)<br>⚡ Fun fact Caffine - Developers best friend
 
 
 ## 🌐 Socials:
