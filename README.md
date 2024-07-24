@@ -107,20 +107,10 @@ Feel free to reach out to me for discussions about React, APIs, Linux, Next.js, 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=shadowctrl&&style=flat-square)  
   
+  
+## 💰 You can help me by Donating
 
-<br/>  
-
-<div align="left">
-            <a href="https://paypal.me/shadowctrl" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/shadowctr" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shadowctrl) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shadowctrl) 
+ 
 <br />
