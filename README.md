@@ -1,5 +1,5 @@
 # <div align="center"> Hey there 👋 </div>
-### <div align="center">I'm Vijayaraghavan, a full-time full-stack <a href="https://upwork.com/freelancers/shadowctrl" >freelance developer</a>.</div>  
+### <div align="center">I'm a Full Stack <a href="https://upwork.com/freelancers/shadowctrl" >freelance developer</a>.</div>  
 
  <br />
 
