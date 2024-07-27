@@ -1,21 +1,21 @@
 # <div align="center"> Hey there 👋 </div>
-### <div align="center">I'm a Full Stack <a href="https://upwork.com/freelancers/shadowctrl" >freelance developer</a>.</div>  
+### <div align="center">I'm Raghav, Next.js <a href="https://upwork.com/freelancers/shadowctrl" >freelance developer</a>.</div>  
 
  <br />
 
-- 🔭 I’m currently working on Freelance Projects  
+- 🔭 I’m currently working on Freelance Projects.  
   
 
-- 🌱 I’m currently learning GASP  
+- 🌱 I’m currently learning GSAP.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces.  
 
 
-- **[Work with Me on Upwork](https://upwork.com/freelancers/shadowctrl)**: Let's create something amazing together.
+- **[Find me on Upwork](https://upwork.com/freelancers/shadowctrl)**: Let's create something amazing together.
 
 <br />
 
@@ -93,7 +93,7 @@ Feel free to reach out to me for discussions about React, APIs, Linux, Next.js, 
 
 ## Github Stats 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shadowctrl&show_icons=true&count_private=true&hide_border=true" align="center" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowctrl&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shadowctrl&show_icons=true&count_private=true&hide_border=true" align="center" />&nbsp;&nbsp;<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=shadowctrl&" alt="shadowctrl" /><br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowctrl&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
