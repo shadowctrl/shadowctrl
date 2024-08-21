@@ -101,7 +101,6 @@ Feel free to reach out to me for discussions about React, APIs, Linux, Next.js, 
 
 <br/>  
 
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=shadowctrl&&style=flat-square)  
