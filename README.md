@@ -81,7 +81,7 @@ Feel free to reach out to me for discussions about React, APIs, Linux, Next.js, 
 
 ### 📫 Connect with Me
 
-- **[Explore My Work](https://www.shadowctrl.me)**: See my portfolio and past projects.
+- **[Explore My Work](https://www.shadowctrl.me/works)**: See my portfolio and current projects.
   
 - **[Work with Me on Upwork](https://upwork.com/freelancers/shadowctrl)**: Let's create something amazing together.
   
