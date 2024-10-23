@@ -21,7 +21,7 @@
 
 ### 💼 Professional Collaboration
 
-I'm open to collaborating on exciting Next.js and MERN stack projects. If you have an innovative idea or need assistance, let's connect and make it happen!
+I'm open to collaborating on exciting Next.js and MERN stack projects. If you have an innovative idea or need assistance, let's connect and make it happen! - [shadowctrl.me](https://shadowctrl.me)
 <br/>
 ### 🔧 Technical Proficiency
 
