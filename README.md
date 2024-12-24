@@ -93,7 +93,9 @@ Feel free to reach out to me for discussions about React, APIs, Linux, Next.js, 
 
 ## Github Stats 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shadowctrl&show_icons=true&count_private=true&hide_border=true" align="center" />&nbsp;&nbsp;<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=shadowctrl&" alt="shadowctrl" /><br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowctrl&hide_border=true&layout=compact" align="center" /></div>  
+![shadowctrl's Stats](https://github-readme-stats.vercel.app/api?username=shadowctrl&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![shadowctrl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowctrl&theme=highcontrast&hide_border=false)
+![shadowctrl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowctrl&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 <br/>  
 
