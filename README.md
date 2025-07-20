@@ -3,7 +3,7 @@
 
 <br/>
 
-Started with a passion for coding that turned into a full-time freelance journey — I’ve earned the **Top Rated badge on Upwork**, built lasting relationships with clients, and now lead **Asynx Private Limited**, a product and service-based company delivering high-quality web solutions with a *client-first* approach.
+Started with a passion for coding that turned into a full-time freelance journey, I’ve earned the **Top Rated badge on Upwork**, built lasting relationships with clients, and now lead **Asynx Private Limited**, a product and service-based company delivering high-quality web solutions with a *client-first* approach.
 
 Currently focused on:
 - Building **ERP & CRM systems** to elevate client experiences.
