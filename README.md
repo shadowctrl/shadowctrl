@@ -96,9 +96,9 @@ Currently focused on:
 ## 🤝 Let’s Collaborate
 
 I’m open to:
-- MERN stack and Next.js projects
+- Web Projects
 - Custom SaaS & Ecommerce builds
 - Internal systems like ERP/CRM
 - API integrations & server automation
 
-Let’s build something meaningful and scalable — together.
+Let’s build something meaningful and scalable together.
