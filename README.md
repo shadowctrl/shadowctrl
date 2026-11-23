@@ -26,5 +26,8 @@ Operating as a **Technical Co-Founder on a Contract** — partnering with founde
 
 ### GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowctrl&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowctrl&hide_border=true&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Raghav's GitHub stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowctrl&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowctrl&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="150" />
+</p>
